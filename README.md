@@ -1,4 +1,4 @@
-# Behavior Driven Development = Exemplo prático
+# Behavior Driven Development - Exemplo prático
 
 Projeto para demostração de aplicação de BDD em um projeto - Webinar Recursos Artísticos da Globo.  
 
@@ -9,9 +9,9 @@ A aplicação pode ser encontrada neste [link](https://teu-futuro-imed.vercel.ap
 ## Principais tecnologias utilizadas
 As principais tecnologias utilizadas foram:
 - [ReactJs](https://pt-br.reactjs.org/)
+- [React Router Dom](https://www.npmjs.com/package/react-router-dom)
 - [Styled Components](https://styled-components.com/)
 - [Axios](https://www.npmjs.com/package/axios)
-- [React Router Dom](https://www.npmjs.com/package/react-router-dom)
 - [Vercel](https://vercel.com/)
 
 
