@@ -2,7 +2,7 @@
 
 Projeto para demostração de aplicação de BDD em um projeto - Webinar Recursos Artísticos da Globo.  
 
-A aplicação pode ser encontrada neste [link](https://teu-futuro-imed.vercel.app).
+A aplicação pode ser encontrada neste [link](https://webinar-ra-bdd.vercel.app/).
 
 ---
 <!-- PRINCIPAIS-TECNOLOGIAS -->
