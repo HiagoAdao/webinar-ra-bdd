@@ -40,7 +40,7 @@ E escolha selecione o arquivo `Home.feature`.
 
 <!-- DEPLOYMENT -->
 ## Deployment
-Todo **_commit_** ou **_pull request_** feito na branch `master` irá gerar um deploy automático pelo serviço da [Vercel](https://vercel.com/) que será disponibilizado na url do projeto de produção.
+Todo **_commit_** ou **_pull request_** feito na branch `main` irá gerar um deploy automático pelo serviço da [Vercel](https://vercel.com/) que será disponibilizado na url do projeto de produção.
 
 <!-- CONTACT -->
 ## Contact
