@@ -10,6 +10,7 @@ const Button = (props) => {
 
   return(
     <ButtonStyled
+      id={props.id}
       onClick={onClickButton}
       outlined={props.outlined}
       disabled={props.disabled}
@@ -21,7 +22,6 @@ const Button = (props) => {
 };
 
 Button.propTypes = {
-  children: PropTypes.oneOfType([PropTypes.element, PropTypes.string]).isRequired,
   onClick: PropTypes.func,
   outlined: PropTypes.bool,
   disabled: PropTypes.bool,
