@@ -1,3 +1,4 @@
+/// <reference types="Cypress" />
 const HOME_PATH = 'https://webinar-ra-bdd.vercel.app/';
 const REVEAL_BUTTON = 'div[id="reveal-button"]';
 const MESSAGE_FIELD = 'h2[id="mensagem-lorem-ipsum"]';

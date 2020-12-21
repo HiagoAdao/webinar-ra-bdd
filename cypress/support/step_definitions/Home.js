@@ -1,6 +1,6 @@
 /// <reference types="Cypress" />
 import { Given, When, Then } from "cypress-cucumber-preprocessor/steps";
-import HomePage from "../../pages/Home";
+import HomePage from "../pages/Home";
 
 Given("que navego pela home page", () => {
   HomePage.visit();
