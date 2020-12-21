@@ -12,6 +12,7 @@ As principais tecnologias utilizadas foram:
 - [React Router Dom](https://www.npmjs.com/package/react-router-dom)
 - [Styled Components](https://styled-components.com/)
 - [Axios](https://www.npmjs.com/package/axios)
+- [Cypress](https://www.cypress.io/)
 - [Vercel](https://vercel.com/)
 
 
@@ -30,6 +31,12 @@ Para a execução do projeto local, utilize o comando abaixo:
 ```sh
 yarn start
 ```
+
+Para a execução do BDD local com Cypress, utilize o comando abaixo:
+```sh
+yarn cypress 
+```
+E escolha selecione o arquivo `Home.feature`.
 
 <!-- DEPLOYMENT -->
 ## Deployment
