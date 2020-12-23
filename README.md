@@ -11,7 +11,6 @@ As principais tecnologias utilizadas foram:
 - [ReactJs](https://pt-br.reactjs.org/)
 - [React Router Dom](https://www.npmjs.com/package/react-router-dom)
 - [Styled Components](https://styled-components.com/)
-- [Axios](https://www.npmjs.com/package/axios)
 - [Cypress](https://www.cypress.io/)
 - [Vercel](https://vercel.com/)
 
